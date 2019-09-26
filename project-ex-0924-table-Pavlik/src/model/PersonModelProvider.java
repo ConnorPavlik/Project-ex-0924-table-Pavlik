@@ -24,7 +24,7 @@ public enum PersonModelProvider {
    }
 
    private static String getFilePath() {
-	  return "/Users/pav/Library/CloudStorage/iCloud Drive/Desktop/CSCI8710/workspaceCSCI8710/workspaceCSCI8710-Pavlik/project-ex-0924-table-Pavlik/input_init.csv";
+	  return "/Users/pav/Library/CloudStorage/iCloud Drive/Desktop/CSCI8710/workspaceGitCSCI8710/project-ex-0924-table-Pavlik/project-ex-0924-table-Pavlik/input_init.csv";
    }
 
    public List<Person> getPersons() {

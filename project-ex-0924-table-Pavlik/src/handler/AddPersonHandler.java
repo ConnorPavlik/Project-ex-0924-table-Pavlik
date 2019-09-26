@@ -50,7 +50,7 @@ public class AddPersonHandler {
          
    }
    private static String getFilePath() {
-		  return "/Users/pav/Library/CloudStorage/iCloud Drive/Desktop/CSCI8710/workspaceCSCI8710/workspaceCSCI8710-Pavlik/project-ex-0924-table-Pavlik/input_add.csv";
+		  return "/Users/pav/Library/CloudStorage/iCloud Drive/Desktop/CSCI8710/workspaceGitCSCI8710/project-ex-0924-table-Pavlik/project-ex-0924-table-Pavlik/input_add.csv";
 	   }
 }
 

@@ -39,8 +39,8 @@ import model.labelprovider.PhoneLabelProvider;
 import model.sorter.PersonSorter;
 
 public class MyTableViewer {
-   public final static String ID = "simpletableinsertdeleteexample.partdescriptor.simpletabletoinsertanddelete";
-   public final static String POPUPMENU = "simpletableinsertdeleteexample.popupmenu.mypopupmenu";
+   public final static String ID = "project-ex-0924-table-Pavlik.partdescriptor.simpletabletoinsertanddelete";
+   public final static String POPUPMENU = "project-ex-0924-table-Pavlik.popupmenu.mypopupmenu";
 
    private TableViewer viewer;
    private PersonFilter filter;
